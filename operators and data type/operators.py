@@ -15,4 +15,4 @@ print("number 1 greater?", num1>num2)
 print("number 2 greater?",num1<num2)
 print("not equal?",num1!=num2)
 result=num1/2+num2**2+10
-print("result of given equation is:",result)
+print("result of given equation is:",result) 
