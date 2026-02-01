@@ -1,3 +1,5 @@
-a=input("enter value of a:")
-num1=75
-print("can the student sit for the exam?", a>num1)
+a=int(input("enter value of a:"))
+if a>75:
+    print("you can write the exam")
+else:
+    print("you are not able to write")
