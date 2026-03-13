@@ -1,3 +1,2 @@
-hi my name is neha
-i am a student of codingal
-i am doing the python coursehi! I am a penguin and i am 1 year old.
+new content 1new content 2
+ File in append mode....hi! i am a penguin. i am 1 year old
