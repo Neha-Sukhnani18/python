@@ -1,0 +1,2 @@
+new content 1new content 2
+ File in append mode....hi! i am a penguin. i am 1 year old
