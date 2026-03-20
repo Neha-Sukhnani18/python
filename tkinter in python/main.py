@@ -1,7 +1,7 @@
 from tkinter import *
 window = Tk()
 window.title('Tkinter Sample Window')
-window.geometry('300*300')
+window.geometry('300x300')
 
 greeting=Label(text="hellow user", fg="black",bg="white")
 button = Button(text="click me", bg='black', fg='white')
