@@ -41,3 +41,4 @@ def topwin():
     top.geometry("600×350+50+50")
 
     label = Label(top, text="enter total amount",bg="light grey")
+    
