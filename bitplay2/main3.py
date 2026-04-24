@@ -27,4 +27,4 @@ arr_size=int(input("enter size of the array:"))
 for i in range(0,arr_size):
     z = int(input("enter element:"))
     arr.append(z)
-printTwoOdd(arr,arr_size)
+printTwoOdd(arr,arr_size) 
