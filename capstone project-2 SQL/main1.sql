@@ -6,6 +6,7 @@ CREATE TABLE IF NOT EXISTS Restaurant(
     review REAL,
     price TEXT,
     health TEXT
+
 );
 
 --INSERT DATA
